@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-I already knew ...
+I already knew somestuff
 --- 
 
 ## Day-1 Checklist
@@ -19,11 +19,11 @@ I already knew ...
 - [ ] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-I learned these things as well, apart from the checklist ...
+I learned these things as well, apart from the checklist ... umm ntg
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+This is my feedback ... ya pretty cool
 ---
 
 ---
